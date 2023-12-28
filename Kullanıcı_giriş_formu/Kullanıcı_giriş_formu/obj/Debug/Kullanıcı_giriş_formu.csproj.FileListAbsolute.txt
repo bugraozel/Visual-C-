@@ -1,0 +1,10 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\bin\Debug\Kullanıcı_giriş_formu.exe.config
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\bin\Debug\Kullanıcı_giriş_formu.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\bin\Debug\Kullanıcı_giriş_formu.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\obj\Debug\Kullanıcı_giriş_formu.csproj.AssemblyReference.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\obj\Debug\Kullanıcı_giriş_formu.Form1.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\obj\Debug\Kullanıcı_giriş_formu.Properties.Resources.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\obj\Debug\Kullanıcı_giriş_formu.csproj.GenerateResource.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\obj\Debug\Kullanıcı_giriş_formu.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\obj\Debug\Kullanıcı_giriş_formu.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\Kullanıcı_giriş_formu\Kullanıcı_giriş_formu\obj\Debug\Kullanıcı_giriş_formu.pdb

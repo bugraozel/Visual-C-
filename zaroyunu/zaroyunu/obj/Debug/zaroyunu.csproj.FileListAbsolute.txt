@@ -1,0 +1,7 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.csproj.AssemblyReference.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\zaroyunu\zaroyunu\bin\Debug\zaroyunu.exe.config
+C:\Users\doanz\OneDrive\Masaüstü\C#\zaroyunu\zaroyunu\bin\Debug\zaroyunu.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\zaroyunu\zaroyunu\bin\Debug\zaroyunu.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.pdb

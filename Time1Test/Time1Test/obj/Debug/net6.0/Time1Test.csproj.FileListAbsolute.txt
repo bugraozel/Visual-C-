@@ -1,0 +1,14 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\Time1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\Time1Test.AssemblyInfoInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\Time1Test.AssemblyInfo.cs
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\Time1Test.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\bin\Debug\net6.0\Time1Test.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\bin\Debug\net6.0\Time1Test.deps.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\bin\Debug\net6.0\Time1Test.runtimeconfig.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\bin\Debug\net6.0\Time1Test.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\bin\Debug\net6.0\Time1Test.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\Time1Test.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\refint\Time1Test.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\Time1Test.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\Time1Test.genruntimeconfig.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Time1Test\Time1Test\obj\Debug\net6.0\ref\Time1Test.dll

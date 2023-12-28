@@ -1,0 +1,14 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\bin\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\bin\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.deps.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\bin\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.runtimeconfig.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\bin\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\bin\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.AssemblyInfoInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.AssemblyInfo.cs
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\refint\Karbon_Ayak_izi_ölçen_program.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\Karbon_Ayak_izi_ölçen_program.genruntimeconfig.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Karbon_Ayak_izi_ölçen_program\Karbon_Ayak_izi_ölçen_program\obj\Debug\net6.0\ref\Karbon_Ayak_izi_ölçen_program.dll

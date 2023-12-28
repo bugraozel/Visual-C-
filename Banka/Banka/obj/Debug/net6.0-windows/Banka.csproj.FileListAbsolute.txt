@@ -1,0 +1,16 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\bin\Debug\net6.0-windows\Banka.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\bin\Debug\net6.0-windows\Banka.deps.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\bin\Debug\net6.0-windows\Banka.runtimeconfig.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\bin\Debug\net6.0-windows\Banka.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\bin\Debug\net6.0-windows\Banka.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.Form1.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.csproj.GenerateResource.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.AssemblyInfoInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.AssemblyInfo.cs
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\refint\Banka.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\Banka.genruntimeconfig.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Banka\Banka\obj\Debug\net6.0-windows\ref\Banka.dll

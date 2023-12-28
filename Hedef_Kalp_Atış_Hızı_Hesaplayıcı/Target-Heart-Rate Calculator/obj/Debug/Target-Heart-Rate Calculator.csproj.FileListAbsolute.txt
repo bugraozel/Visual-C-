@@ -1,0 +1,10 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\bin\Debug\Target-Heart-Rate Calculator.exe.config
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\bin\Debug\Target-Heart-Rate Calculator.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\bin\Debug\Target-Heart-Rate Calculator.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.csproj.AssemblyReference.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target_Heart_Rate_Calculator.Form1.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target_Heart_Rate_Calculator.Properties.Resources.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.csproj.GenerateResource.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\Target-Heart-Rate Calculator\Target-Heart-Rate Calculator\obj\Debug\Target-Heart-Rate Calculator.pdb

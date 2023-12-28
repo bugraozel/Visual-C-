@@ -1,0 +1,10 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.AssemblyReference.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\obj\Debug\stopwatch.Form1.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\obj\Debug\stopwatch.Properties.Resources.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.GenerateResource.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\stopwatch\stopwatch\obj\Debug\stopwatch.pdb

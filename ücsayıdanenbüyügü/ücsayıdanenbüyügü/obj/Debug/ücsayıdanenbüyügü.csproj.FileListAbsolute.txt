@@ -1,0 +1,7 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\ücsayıdanenbüyügü\ücsayıdanenbüyügü\bin\Debug\ücsayıdanenbüyügü.exe.config
+C:\Users\doanz\OneDrive\Masaüstü\C#\ücsayıdanenbüyügü\ücsayıdanenbüyügü\bin\Debug\ücsayıdanenbüyügü.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\ücsayıdanenbüyügü\ücsayıdanenbüyügü\bin\Debug\ücsayıdanenbüyügü.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\ücsayıdanenbüyügü\ücsayıdanenbüyügü\obj\Debug\ücsayıdanenbüyügü.csproj.AssemblyReference.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\ücsayıdanenbüyügü\ücsayıdanenbüyügü\obj\Debug\ücsayıdanenbüyügü.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\ücsayıdanenbüyügü\ücsayıdanenbüyügü\obj\Debug\ücsayıdanenbüyügü.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\ücsayıdanenbüyügü\ücsayıdanenbüyügü\obj\Debug\ücsayıdanenbüyügü.pdb

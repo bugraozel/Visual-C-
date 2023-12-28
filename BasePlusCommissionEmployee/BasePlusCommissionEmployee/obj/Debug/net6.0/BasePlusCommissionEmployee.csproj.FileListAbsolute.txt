@@ -1,0 +1,14 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\BasePlusCommissionEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\BasePlusCommissionEmployee.AssemblyInfoInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\BasePlusCommissionEmployee.AssemblyInfo.cs
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\BasePlusCommissionEmployee.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net6.0\BasePlusCommissionEmployee.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net6.0\BasePlusCommissionEmployee.deps.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net6.0\BasePlusCommissionEmployee.runtimeconfig.json
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net6.0\BasePlusCommissionEmployee.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net6.0\BasePlusCommissionEmployee.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\BasePlusCommissionEmployee.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\refint\BasePlusCommissionEmployee.dll
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\BasePlusCommissionEmployee.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\BasePlusCommissionEmployee.genruntimeconfig.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net6.0\ref\BasePlusCommissionEmployee.dll

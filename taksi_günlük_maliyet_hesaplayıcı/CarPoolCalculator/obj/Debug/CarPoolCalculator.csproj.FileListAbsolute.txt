@@ -1,0 +1,10 @@
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\bin\Debug\CarPoolCalculator.exe.config
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\bin\Debug\CarPoolCalculator.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\bin\Debug\CarPoolCalculator.pdb
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\obj\Debug\CarPoolCalculator.csproj.AssemblyReference.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\obj\Debug\CarPoolCalculator.Form1.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\obj\Debug\CarPoolCalculator.Properties.Resources.resources
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\obj\Debug\CarPoolCalculator.csproj.GenerateResource.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\obj\Debug\CarPoolCalculator.csproj.CoreCompileInputs.cache
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\obj\Debug\CarPoolCalculator.exe
+C:\Users\doanz\OneDrive\Masaüstü\C#\CarPoolCalculator\CarPoolCalculator\obj\Debug\CarPoolCalculator.pdb
